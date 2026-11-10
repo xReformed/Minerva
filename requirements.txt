@@ -3,7 +3,7 @@
 --extra-index-url https://download.pytorch.org/whl/cu128
 
 torch==2.7.0+cu128
-numpy==2.5.4
+numpy==2.4.6
 ipykernel==7.4.0
 tiktoken==0.14.0     # GPT-2 word-piece tokenizer
 datasets==5.2.0      # streaming datasets from Hugging Face (also installs pyarrow for .parquet files)
